@@ -1,5 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<NationalParks xmlns="https://gmmelo.github.io/cse445-xml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://gmmelo.github.io/cse445-xml NationalParks.xsd">
+<NationalParks xmlns="http://venus.sod.asu.edu/WSRepository/xml"
+               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+               xsi:schemaLocation="http://venus.sod.asu.edu/WSRepository/xml NationalParks.xsd">
 	<NationalPark Rating="4.9">
 		<Name>Grand Canyon</Name>
 		<Phone>928-638-7496</Phone>
